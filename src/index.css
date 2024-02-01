@@ -1,0 +1,13 @@
+:root {
+  --Red: #f60101;
+  --Black: #000000;
+  --Grey: #3a3a3a;
+  --White: #f7f6f6;
+}
+
+body {
+  background-color: var(--Grey);
+  background-image: url(./assets/);
+  margin: 0;
+  color: var(--White);
+}
